@@ -26,10 +26,10 @@
 
 ### GNN
 
-+ [A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?](https://openreview.net/pdf?id=uxgg9o7bI_3)
-+ [Expressiveness and Approximation Properties of Graph Neural Networks](https://openreview.net/pdf?id=wIzUeM3TAU)
-+ [Understanding over-squashing and bottlenecks on graphs via curvature](https://openreview.net/pdf?id=7UmjRGzp-A)
-+ [Data-Efficient Graph Grammar Learning for Molecular Generation](https://openreview.net/pdf?id=l4IHywGq6a)
++ [A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?](https://openreview.net/pdf?id=uxgg9o7bI_3) (Oral)
++ [Expressiveness and Approximation Properties of Graph Neural Networks](https://openreview.net/pdf?id=wIzUeM3TAU) (Oral)
++ [Understanding over-squashing and bottlenecks on graphs via curvature](https://openreview.net/pdf?id=7UmjRGzp-A) (Oral)
++ [Data-Efficient Graph Grammar Learning for Molecular Generation](https://openreview.net/pdf?id=l4IHywGq6a) (Oral)
 + [Equivariant Subgraph Aggregation Networks](https://openreview.net/pdf?id=dFbKQaRk15w)
 + [Spanning Tree-based Graph Generation for Molecules](https://openreview.net/pdf?id=w60btE_8T2m)
 + [GreaseLM: Graph REASoning Enhanced Language Models](https://openreview.net/pdf?id=41e9o6cQPj)
@@ -69,8 +69,8 @@
 
 
 ## Meta
-+ [Bootstrapped Meta-Learning](https://openreview.net/pdf?id=b-ny3x071E5)
-+ [Meta-Learning with Fewer Tasks through Task Interpolation](https://openreview.net/pdf?id=ajXWF7bVR8d)
++ [Bootstrapped Meta-Learning](https://openreview.net/pdf?id=b-ny3x071E5) (Oral)
++ [Meta-Learning with Fewer Tasks through Task Interpolation](https://openreview.net/pdf?id=ajXWF7bVR8d) (Oral)
 + [Learning meta-features for AutoML](https://openreview.net/pdf?id=DTkEfj0Ygb8)
 + [Meta Discovery: Learning to Discover Novel Classes given Very Limited Data](https://openreview.net/pdf?id=MEpKGLsY8f)
 + [Task Relatedness-Based Generalization Bounds for Meta Learning](https://openreview.net/pdf?id=A3HHaEdqAJL)
@@ -105,7 +105,7 @@
 
 
 ## Bias
-+ [Resolving Training Biases via Influence-based Data Relabeling](https://openreview.net/pdf?id=EskfH0bwNVn)
++ [Resolving Training Biases via Influence-based Data Relabeling](https://openreview.net/pdf?id=EskfH0bwNVn) (Oral)
 + [Deconstructing the Inductive Biases of Hamiltonian Neural Networks](https://openreview.net/pdf?id=EDeVYpT42oS)
 + [On the Importance of Firth Bias Reduction in Few-Shot Classification](https://openreview.net/pdf?id=DNRADop4ksB)
 + [The Inductive Bias of In-Context Learning: Rethinking Pretraining Example Design](https://openreview.net/pdf?id=lnEaqbTJIRz)
